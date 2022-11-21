@@ -1,2 +1,2 @@
-# INSAID-Final-Project
+# INSAID-EDA-Final-Project
 Final Project 
