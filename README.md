@@ -1,2 +1,2 @@
-# INSAID-EDA-Final-Project
+# INSAID Data Science Course
 Final Project 
