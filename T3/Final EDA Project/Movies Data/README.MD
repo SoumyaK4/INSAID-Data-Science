@@ -62,4 +62,4 @@
 |12| Metascore| Is the score of the movie on the metacritic website by critics|
 
 ### Please check the [Jupyter Notebook](https://github.com/SoumyaK4/INSAID-Data-Science/blob/main/T3/Final%20EDA%20Project/Movies%20Data/soumyakundu55%40gmail.com.ipynb) for the whole process <br>
-### Check the [Presentation](https://github.com/SoumyaK4/INSAID-Data-Science/blob/main/T3/Final%20EDA%20Project/Movies%20Data/soumyakundu55%40gmail.com.pdf) and [Video]() to Learn More.
+### Check the [Presentation](https://github.com/SoumyaK4/INSAID-Data-Science/blob/main/T3/Final%20EDA%20Project/Movies%20Data/soumyakundu55%40gmail.com.pdf) and [Video](https://youtu.be/jOr7hxdHHtM) to Learn More.
